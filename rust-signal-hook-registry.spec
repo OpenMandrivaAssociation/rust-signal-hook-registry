@@ -5,8 +5,8 @@
 %global crate signal-hook-registry
 
 Name:           rust-%{crate}
-Version:        1.2.0
-Release:        2%{?dist}
+Version:        1.4.8
+Release:        1%{?dist}
 Summary:        Backend crate for signal-hook
 
 # Upstream license specification: Apache-2.0/MIT
